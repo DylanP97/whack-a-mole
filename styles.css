@@ -1,0 +1,18 @@
+
+.grid {
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+    cursor: url('b88402ad2e590ed.png'), pointer;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    border: black solid 1px;
+}
+
+.mole {
+    background-image: url('mole.png');
+}
